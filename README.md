@@ -15,4 +15,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/code-with-akki010/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/code-with-akki010/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/code-with-akki010/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
