@@ -7,11 +7,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/code-with-akki010/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/code-with-akki010/leetcode-solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/code-with-akki010/leetcode-solutions/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/code-with-akki010/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/code-with-akki010/leetcode-solutions/tree/main/0371-sum-of-two-integers/) | Medium |
+## Recursion
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
