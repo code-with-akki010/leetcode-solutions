@@ -15,6 +15,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/code-with-akki010/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/code-with-akki010/leetcode-solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
